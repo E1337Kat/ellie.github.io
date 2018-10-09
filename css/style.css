@@ -1,0 +1,18 @@
+body {
+  padding: 20px;
+  font-family: Helvetica;
+}
+
+.main-content {
+  float: left;
+  margin-left: 10%;
+  margin-right: 20%;
+}
+
+.signature {
+  text-align: left;
+  font-family: 'Sofia';
+  font-size: 13px;
+  padding-top: 10px;
+  color: #7442f4;
+}
