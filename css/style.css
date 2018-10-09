@@ -12,7 +12,7 @@ body {
 .signature {
   text-align: left;
   font-family: 'Sofia';
-  font-size: 13px;
-  padding-top: 10px;
+  font-size: 20px;
+  padding-bottom: 20px
   color: #7442f4;
 }
